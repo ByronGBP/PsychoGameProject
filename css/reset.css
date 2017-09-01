@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  overflow: hidden;
+}
+
+.canvas {
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.bg-canvas {
+  position: absolute;
+
+}
+
+.f-canvas {
+  position: absolute;
+  z-index: 6;
+}
+
+.select {
+  position: absolute;
+  z-index: 10;
+}
+
+.empty-canvas {
+  position: absolute;
+  z-index: 7;
+}
+
+.tx-canvas {
+  position:absolute;
+  z-index: 3;
+}
