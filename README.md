@@ -2,9 +2,9 @@
 
 - Game made it with js
 
-## Give it a try!
+## Give it a try!
 ### For make it runnnig you have to download the Record.txt and put it in the game when it ask for it.
-- [!!!!]()
+- [!!!!](https://byrongbp.github.io/PsychoGameProject/)
 - Controls
   ```
   Arrows
