@@ -4,7 +4,7 @@
 
 ## Give it a try!
 ### For make it runnnig you have to download the Record.txt and put it in the game when it ask for it.
-- [!!!!](https://byrongbp.github.io/PsychoGameProject/)
+- [!!!!](https://byrongbp.github.io/canvas-psycho-game/)
 - Controls
   ```
   Arrows
